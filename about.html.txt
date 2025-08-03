@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hakkımızda - 4K Eğitim</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <nav>
+    <a href="index.html">Ana Sayfa</a>
+    <a href="products.html">Ürünler</a>
+    <a href="about.html">Hakkımızda</a>
+    <a href="contact.html">İletişim</a>
+  </nav>
+  <h1>Hakkımızda</h1>
+  <p>4K Eğitim Teknolojileri, sınıfları daha interaktif, verimli ve görsel olarak zengin hale getirmek için yenilikçi çözümler sunar.</p>
+</body>
+</html>

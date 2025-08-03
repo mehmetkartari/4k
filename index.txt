@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>4K Education Solutions</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<nav>
+  <a href="#" onclick="setLang('de')">Deutsch</a>
+  <a href="#" onclick="setLang('fr')">Français</a>
+  <a href="#" onclick="setLang('ru')">Русский</a>
+  <a href="#" onclick="setLang('zh')">中文</a>
+</nav>
+
+<section id="de" class="lang active">
+  <h1>Willkommen bei 4K Bildungslösungen</h1>
+  <p>Innovative, zuverlässige und zukunftssichere 4K-Bildungstechnologien für moderne Klassenzimmer.</p>
+</section>
+
+<section id="fr" class="lang">
+  <h1>Bienvenue chez Solutions éducatives 4K</h1>
+  <p>Technologies éducatives 4K innovantes, fiables et adaptées aux salles de classe du futur.</p>
+</section>
+
+<section id="ru" class="lang">
+  <h1>Добро пожаловать в 4K образовательные решения</h1>
+  <p>Инновационные и надежные 4K-технологии для современных учебных заведений.</p>
+</section>
+
+<section id="zh" class="lang">
+  <h1>欢迎来到4K教育解决方案</h1>
+  <p>为现代教室提供创新、可靠、面向未来的4K教育技术。</p>
+</section>
+
+<script src="js/lang.js"></script>
+
+</body>
+</html>

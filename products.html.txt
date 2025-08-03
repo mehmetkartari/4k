@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ürünler - 4K Eğitim</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <nav>
+    <a href="index.html">Ana Sayfa</a>
+    <a href="products.html">Ürünler</a>
+    <a href="about.html">Hakkımızda</a>
+    <a href="contact.html">İletişim</a>
+  </nav>
+  <h1>Ürün Kataloğu</h1>
+  <div class="product-list">
+    <div class="product">
+      <img src="assets/product1.jpg" alt="4K Panel">
+      <h3>4K Dokunmatik Panel</h3>
+      <p>Ultra HD eğitim çözümleri için idealdir.</p>
+    </div>
+    <div class="product">
+      <img src="assets/product2.jpg" alt="Akıllı Tahta">
+      <h3>Akıllı Tahta</h3>
+      <p>Etkin sınıf yönetimi için çoklu dokunmatik destekli sistem.</p>
+    </div>
+  </div>
+</body>
+</html>
